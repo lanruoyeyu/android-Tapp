@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1565C0</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#003C8F</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">T-account book</string>
+    <style name="Theme.TAssetBook" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+</resources>
